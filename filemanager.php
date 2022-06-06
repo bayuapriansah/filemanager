@@ -9,7 +9,7 @@ $use_auth = true;
 
 // Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
 $auth_users = array(
-    'fm_admin' => 'fm_admin',
+    'siswa' => 'siswa',
 );
 
 // Enable highlight.js (https://highlightjs.org/) on view's page
@@ -19,7 +19,7 @@ $use_highlightjs = true;
 $highlightjs_style = 'vs';
 
 // Default timezone for date() and time() - http://php.net/manual/en/timezones.php
-$default_timezone = 'Europe/Minsk'; // UTC+3
+$default_timezone = 'Asia/Jakarta'; // UTC+3
 
 // Root path for file manager
 $root_path = $_SERVER['DOCUMENT_ROOT'];
